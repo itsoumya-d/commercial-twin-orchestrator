@@ -1,0 +1,19 @@
+{
+  "name": "commercial-twin-orchestrator",
+  "version": "1.0.0",
+  "description": "Deterministic commercial digital twin reconciliation and workflow execution engine",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test --experimental-strip-types tests/**/*.test.ts"
+  },
+  "keywords": [
+    "digital-twin",
+    "workflow-engine",
+    "data-reconciliation",
+    "erp-crm-sync",
+    "state-machine"
+  ],
+  "author": "Soumya Debnath",
+  "license": "MIT"
+}
